@@ -1,5 +1,13 @@
-# DSA + Interview preparation bootcamp
-- Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
-- [Lectures](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-- [Course website](https://www.techwithkunal.com/courses/dsa)
-- [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
+## Java DSA – Interview Preparation
+
+This repository contains Java Data Structures & Algorithms problems
+that I recently reviewed and practiced as part of interview preparation.
+
+Focus areas:
+- Arrays, Stacks, Queues, Binary Trees, ArrayLists, LinkedLists, Recursion
+- Common interview patterns
+- Clean Java implementations with explanations
+
+Note:
+This repository is forked from open-source resources and modified
+with my own notes, explanations, and refactoring for learning purposes.
